@@ -13,7 +13,7 @@ npx create-react-native-app -t with-router
 ## 🚀 How to clone this repo
 
 ```sh
-git clone https://github.com/nikul6/TeslaApp.git
+git clone https://github.com/nikul6/OnlyFansApp.git
 ```
 
 and then install node-modules
