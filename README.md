@@ -31,7 +31,7 @@ npx expo start
 ## 🚀 UI
 Home             |  Profile - subscribed         |   Profile - Subscribe             |  New Post     
 -------------------------|-------------------------|-------------------------|-------------------------
-![alt text](https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/Home.png)     |       ![alt text](https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/ProfileSubscribed.png) |   (https://github.com/nikul6/OnlyFansApp/blob/main/asset/AppImages/ProfileSubscribe.png) |  (https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/NewPost.png)
+![alt text](https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/Home.png)     |       ![alt text](https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/ProfileSubscribed.png) |   (https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/ProfileSubscribe.png) |  (https://github.com/nikul6/OnlyFansApp/blob/main/assets/AppImages/NewPost.png)
 
 
 ## 📝 Notes
